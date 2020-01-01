@@ -45,7 +45,7 @@ $reading_time_calculator = new Candy_Reading_Time;
 <div class="card card-4">
 <div class="card-body">
 <img src="logo.png" class="logo"><br>
-<h2 class="title">Total Words: <?php $count_all_words->word_counter($_POST['text_count']);?></h2>
+<h2 class="title">Total Words: <?php $count_all_words->word_counter($_POST['text_count']);?><br>Reading Time: <?php $reading_time_calculator->reading_time($_POST['text_count']);?></h2>
 <form method="POST">
 <div class="row row-space">
 <div class="col-2">

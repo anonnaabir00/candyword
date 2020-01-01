@@ -29,7 +29,7 @@ class Candy_Reading_Time
 	$final_words= str_word_count($words_without_html);
 	$time= $final_words/200;
 	$reading_time= $time;
-	echo "Reading Time: ",$reading_time;
+	echo $reading_time;
 	
 	}
 }
