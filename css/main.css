@@ -291,11 +291,11 @@ h6 {
 }
 
 .btn--blue {
-  background: #4272d7;
+  background: #FF6CAC;
 }
 
 .btn--blue:hover {
-  background: #3868cd;
+  background: rgb(248, 130, 181);
 }
 
 /* ==========================================================================
