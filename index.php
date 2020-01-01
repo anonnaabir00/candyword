@@ -23,7 +23,7 @@ $reading_time_calculator = new Candy_Reading_Time;
     <meta name="keywords" content="Colorlib Templates">
 
     <!-- Title Page-->
-    <title>Au Register Forms by Colorlib</title>
+    <title>CandyWord-Reading time calculator with Word Count calculator.</title>
 
     <!-- Icons font CSS-->
     <link href="vendor/mdi-font/css/material-design-iconic-font.min.css" rel="stylesheet" media="all">
@@ -44,7 +44,7 @@ $reading_time_calculator = new Candy_Reading_Time;
 <div class="wrapper wrapper--w680">
 <div class="card card-4">
 <div class="card-body">
-<img src="logo.png" class="logo">
+<img src="logo.png" class="logo"><br>
 <h2 class="title">Total Words: <?php $count_all_words->word_counter($_POST['text_count']);?></h2>
 <form method="POST">
 <div class="row row-space">
