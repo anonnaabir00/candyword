@@ -55,7 +55,7 @@ $reading_time_calculator = new Candy_Reading_Time;
 </div>
 </div>
 <div class="p-t-15">
-<button class="btn btn--radius-2 btn--blue" type="submit">Submit</button>
+<button class="btn btn--radius-2 btn--blue" type="submit">Count Words!</button>
 </div>
 </form>
 </div>
