@@ -18,12 +18,12 @@ $reading_time_calculator = new Candy_Reading_Time;
     <!-- Required meta tags-->
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="Colorlib Templates">
-    <meta name="author" content="Colorlib">
-    <meta name="keywords" content="Colorlib Templates">
+    <meta name="description" content="CandyWord">
+    <meta name="author" content="Asaduzzaman Abir">
+    <meta name="keywords" content="word counter, reading time calculator, word calculator, reading time counter">
 
     <!-- Title Page-->
-    <title>CandyWord-Reading time calculator with Word Count calculator.</title>
+    <title>CandyWord-Reading time calculator with Word Counter</title>
 
     <!-- Icons font CSS-->
     <link href="vendor/mdi-font/css/material-design-iconic-font.min.css" rel="stylesheet" media="all">
@@ -73,7 +73,6 @@ $reading_time_calculator = new Candy_Reading_Time;
     <!-- Main JS-->
     <script src="js/global.js"></script>
 
-</body><!-- This templates was made by Colorlib (https://colorlib.com) -->
+</body>
 
 </html>
-<!-- end document-->
